@@ -515,8 +515,8 @@ amp-sidebar {
 		
         <div class="button">
         	<div class="wrapper">
-                <a class="btn btn-1" href="https://semangatwin.io" target="_blank">DAFTAR</a>
-                <a class="btn btn-2" href="https://semangatwin.io" target="_blank">LOGIN</a>
+                <a class="btn btn-1" href="https://rebrand.ly/0p3io14" target="_blank">DAFTAR</a>
+                <a class="btn btn-2" href="https://rebrand.ly/0p3io14" target="_blank">LOGIN</a>
             </div>
         </div>
     	<div class="carousel">
@@ -746,15 +746,15 @@ amp-sidebar {
 
 <div id="footer" class="block">
 	<div class="container">
-    	<!-- <a class="btn-register" target="_blank" href="https://semangatwin.ioregister">
+    	<!-- <a class="btn-register" target="_blank" href="https://rebrand.ly/0p3io14register">
             <amp-img src="assets/image/animated.gif" alt="Daftar Slot" width="91" height="91" layout="responsive" style="max-width: 91px"></amp-img>
         </a> -->
     	<div class="fixed-menu">
-        	<a class="btn-footer" target="_blank" href="https://semangatwin.io">
+        	<a class="btn-footer" target="_blank" href="https://rebrand.ly/0p3io14">
             	<amp-img src="https://tugu138.sgp1.digitaloceanspaces.com/slot/icon-login.webp" alt="Login Slot" width="24" height="24" layout="responsive" style="max-width: 24px"></amp-img><br>
             	Login
             </a>
-            <a class="btn-footer" target="_blank" href="https://semangatwin.io">
+            <a class="btn-footer" target="_blank" href="https://rebrand.ly/0p3io14">
             	<amp-img src="https://tugu138.sgp1.digitaloceanspaces.com/slot/icon-promo.webp" alt="Promo Slot" width="24" height="24" layout="responsive" style="max-width: 24px"></amp-img><br>
             	Promo
             </a>
